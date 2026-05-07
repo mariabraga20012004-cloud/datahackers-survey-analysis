@@ -1,5 +1,6 @@
-# analise-datahackers-2022Este projeto foi uma oportunidade incrível de colocar a mão na massa com o ecossistema Python. 
+# analise-datahackers-2022Este 
 
+projeto foi uma oportunidade incrível de colocar a mão na massa com o ecossistema Python. 
 Usando os dados da pesquisa DataHackers 2022, mergulhei no cenário de TI do Brasil para entender o que realmente está a acontecer com os salários e o perfil dos profissionais da área.
 
 Durante o processo, fiz de tudo um pouco: desde a estatística básica e limpeza de dados até integrações mais complexas com SQL e visualizações gráficas.
