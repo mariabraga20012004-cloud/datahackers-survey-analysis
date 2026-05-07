@@ -18,3 +18,14 @@ Visão Executiva: Criação de tabelas dinâmicas e matrizes de liderança para 
 
 No fim de contas, saio com a bagagem cheia de novos aprendizados em análise exploratória e, principalmente, na arte de resolver os problemas que surgem no meio do caminho. 
 O projeto demonstrou como a Ciência de Dados pode transformar uma planilha gigante em respostas claras para perguntas difíceis.
+
+
+## 📊 Dashboards Interativos (Looker Studio)
+
+Para complementar a análise técnica, desenvolvi dashboards interativos utilizando o **Looker Studio**. O objetivo foi facilitar a visualização de indicadores críticos sobre o mercado de tecnologia:
+
+- **Análise de Diversidade:** Visão detalhada sobre a presença de grupos sub-representados no setor.
+- **Análise de Gênero e Etnia:** Comparativo de senioridade, escolaridade e média salarial, permitindo identificar disparidades e tendências.
+- **Distribuição Geográfica:** Mapeamento da concentração de profissionais de tecnologia pelo Brasil.
+
+👉 [Clique aqui para acessar o Dashboard Interativo](https://datastudio.google.com/reporting/f0547fe3-bf38-4d38-b4f5-a761d7168661)
