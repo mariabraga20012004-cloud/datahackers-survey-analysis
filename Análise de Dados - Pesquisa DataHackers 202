@@ -1,0 +1,18 @@
+Este projeto foi uma oportunidade incrível de colocar a mão na massa com o ecossistema Python. 
+Usando os dados da pesquisa DataHackers 2022, mergulhei no cenário de TI do Brasil para entender o que realmente está a acontecer com os salários e o perfil dos profissionais da área.
+
+Durante o processo, fiz de tudo um pouco: desde a estatística básica e limpeza de dados até integrações mais complexas com SQL e visualizações gráficas.
+Mais do que gerar gráficos, o desafio foi transformar esses dados brutos em insights que façam sentido para o mundo real.
+
+O que foi desenvolvido:
+
+Fundamentos Estatísticos: Exploração de métricas de tendência central (média, mediana e moda) e dispersão utilizando NumPy e Pandas.
+
+Sanidade e Qualidade de Dados: Tratamento de valores nulos e estruturação do dataset.
+
+Integração SQL: Enriquecimento dos dados principais com bases externas via consultas SQL para ampliar as possibilidades de análise.
+
+Visão Executiva: Criação de tabelas dinâmicas e matrizes de liderança para identificar padrões de género e cargos de gestão.
+
+No fim de contas, saio com a bagagem cheia de novos aprendizados em análise exploratória e, principalmente, na arte de resolver os problemas que surgem no meio do caminho. 
+O projeto demonstrou como a Ciência de Dados pode transformar uma planilha gigante em respostas claras para perguntas difíceis.
